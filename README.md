@@ -40,7 +40,7 @@ The website is deployed using [Vercel](https://vercel.com) and is accessible at:
 
 ## How to Run Locally
 1. Clone the repository  
-git clone https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-MosesMolepo001.git
+git clone https://github.com/MosesMolepo001/feb-2025-final-project-and-deployment-MosesMolepo001.git
 
 1. Open `index.html` in any modern web browser.
 
