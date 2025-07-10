@@ -18,8 +18,7 @@ This is a simple, multipage responsive website built using **HTML5**, **CSS3**, 
 - `contact.html` — Contact page with a functional contact form
 
 ## Folder Structure
-/my-website/
-│
+
 ├── index.html
 ├── about.html
 ├── contact.html
@@ -37,7 +36,7 @@ This is a simple, multipage responsive website built using **HTML5**, **CSS3**, 
 
 ## Deployment
 The website is deployed using [Vercel](https://vercel.com) and is accessible at:  
-`https://your-vercel-url.vercel.app`  *(replace with your actual URL)*
+`https://feb-2025-final-project-and-deployme-eta.vercel.app`  
 
 ## How to Run Locally
 1. Clone the repository  
